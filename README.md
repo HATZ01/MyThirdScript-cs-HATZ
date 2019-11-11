@@ -8,7 +8,11 @@
 
 **Target Platform:**
 - WebGL (refRes: 1280x720)
-- Screenshot: 
+
+**Screenshot:**
+
+<div>
+<img src="./Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-HATZ.jpg">
 
 **Lessons Learned:**
 *This project taught me:*
